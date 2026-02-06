@@ -11,3 +11,5 @@ JPu, alternatively spelt "JPU", is a project-based ISO-3641 Code which stands fo
 The Staff of the Japanese Branch of Project Nexium is not responsible for any discrepancies regarding Site Members, content allocation, missing, broken, drafted or orphaned pages. 
 
 # Localization (i18n)
+
+I, chadmasseywelshlin-byte, aka PNXJPu, am a native English speaker. I cannot speak Japanese as I am currently learning Spanish, and do not currently understand the geographic, natural, phonetic and grammatical landscapes of Japanese. I created this GitHub Repository because I wish for Japanese Speakers to be able to 
