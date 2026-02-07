@@ -1,5 +1,10 @@
-# JPuNexium
+<p align="center">
+𝐉𝐏𝐮𝐍𝐞𝐱𝐢𝐮𝐦
+</p>
+
 -----------
+
+
 <p align="center">
 Wiki engine compatible with Wikidot developed by Japanese Nexium Branch
 </p>
@@ -12,7 +17,7 @@ Wiki engine compatible with Wikidot developed by Japanese Nexium Branch
 </p>
  
 # General Information
-JPu, alternatively spelt "JPU", is a project-based ISO-3641 Code which stands for "Japanese Undermarked". In this context, Undermarked has the same meaning as Markup. This means that anything that is spelt as "HTUL" would mean HTML. ISO-3641 Codes were categorically created for this specific project, for the Japanese Branch of PNX's Staff. For a list of ISO-3641 Codes, please visit the [ISO](https://github.com/chadmasseywelshlin-byte/JPuNexium/tree/main/ISO%20) file.
+JPu, alternatively spelt "JPU", is a project-based ISO-3641 Code which stands for "Japanese Undermarked". In this context, Undermarked has the same meaning as Markup. This means that anything that is spelt as "HTUL" would mean HTML. ISO-3641 Codes were categorically created for this specific project, for the Japanese Branch of PNX's Staff. For a list of ISO-3641 Codes, please visit the [ISO](https://github.com/chadmasseywelshlin-byte/JPuNexium/tree/main/ISO%20) file. The [Logging Site](http://jpunexium.wikidot.com/jpunexium:jp.x9-council)'s front page can be found in the Logging Site section of this document, as it is important, since it is where progress for the Japanese Branch (JPuNexium or PNXJPu) is to be announced/stored. Repository files that are .html should either stay as .html or change to .htul, using the custom code script file: 
 
 # Disclaimer
 
@@ -30,3 +35,6 @@ I, chadmasseywelshlin-byte, aka PNXJPu, am a native English speaker. I cannot sp
 
 * Thirdly, the English Translation Database (ITD) should be hosted at "en.pnx-jp.net". There should be no subdomain here.
 
+# Logging Site
+
+The Logging Site used to log progress for JPuNexium (NexiumJPu) can be found [here](http://jpunexium.wikidot.com/jpunexium:info).
