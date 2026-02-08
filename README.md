@@ -23,13 +23,13 @@ JPu, alternatively spelt "JPU", is a project-based ISO-3641 Code which stands fo
 
 The Staff of the Japanese Branch of Project Nexium is not responsible for any discrepancies regarding Site Members, content allocation, missing, broken, drafted or orphaned pages. 
 
-# Localization (i18n)
+# Localisation (i18n)
 
 I, chadmasseywelshlin-byte, aka PNXJPu, am a native English speaker. I cannot speak Japanese as I am currently learning Spanish, and do not currently understand the geographic, natural, phonetic and grammatical landscapes of Japanese. I created this GitHub Repository because I wish for Japanese Speakers to be able to contribute to Project Nexium one day; I do have experience since I have set up the [Spanish Branch](http://laorganizacionnexium.wikidot.com) on [Wikidot](http://www.wikidot.com/) which comes with its plethora of errors, and the site itself is left unmaintained by [Wikidot Inc](https://www.wikidot.com/about) while administrators and moderators are subsequently "left behind" to deal with their own Wikis that were hosted on Wikidot, starting from 1st August 2006 onwards. That is the main reason for the Site Creation. Translators may be either Japanese or English, but can be both or none at the same time, as long as they understand basic functions of JavaScript (.js) and HyperTextMarkupLanguage (HTML). 
 
 # Proposed Sites
 
-* JPuNexium International (Japanese) Site - reference site can be found [here](http://log-int.wikidot.com/).
+* JPuNexium International (Japanese) Site - reference site can be found [here](http://log-int.wikidot.com/) - basically, a Japanese version of the International Site, for localisation purposes. (excuse my britishness)
 
 * Additionally, a site called Sono Takakkei which acts as a sandbox for JPuNexium's mainsite. it's link should be: "jp.pnx-jp-sandbox.net" using the World Wide Web (WWW) subdomain.
 
