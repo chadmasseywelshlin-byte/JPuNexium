@@ -10,7 +10,7 @@ Wiki engine compatible with Wikidot developed by Japanese Nexium Branch
 </p>
 
 <p align="center">
-    <img width="200" src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Japan_Kouzoku_Flag_16ben.svg]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Japan_Kouzoku_Flag_16ben.svg/2560px-Japan_Kouzoku_Flag_16ben.svg.png)" alt="Japan Kouzoku Flag - JPu=Nexium">
+    <img width="200" src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Japan_Kouzoku_Flag_16ben.svg]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Japan_Kouzoku_Flag_16ben.svg/2560px-Japan_Kouzoku_Flag_16ben.svg.png)" alt="Japan Kouzoku Flag - JPuNexium">
 </p> 
 <p align="center">
  #StandWithPNXJPu
